@@ -58,7 +58,8 @@ FAVOURITE STUDENT LIST
 
 ## 📌 Usage
 
-- Open: http://localhost:5173  
+- Open: https://favourite-student-list-five.vercel.app/
+- Git clone Link: 
 - View student list  
 - Add/remove favourites  
 - Navigate between pages  
