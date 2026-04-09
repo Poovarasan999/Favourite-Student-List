@@ -58,7 +58,7 @@ FAVOURITE STUDENT LIST
 
 ## 📌 Usage
 
-- Open: https://favourite-student-list-five.vercel.app/
+- Open: https://favourite-student-list-h5un.vercel.app/
 - Git clone Link: https://github.com/Poovarasan999/Favourite-Student-List
 - View student list  
 - Add/remove favourites  
