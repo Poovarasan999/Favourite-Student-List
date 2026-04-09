@@ -59,7 +59,7 @@ FAVOURITE STUDENT LIST
 ## 📌 Usage
 
 - Open: https://favourite-student-list-five.vercel.app/
-- Git clone Link: 
+- Git clone Link: https://github.com/Poovarasan999/Favourite-Student-List
 - View student list  
 - Add/remove favourites  
 - Navigate between pages  
