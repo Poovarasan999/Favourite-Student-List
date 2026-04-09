@@ -1,19 +1,22 @@
-📘 Favourite Student List App
+# 📘 Favourite Student List App
 
-A simple React application to manage and view a list of favourite students. Built using React (Vite) with Context API for state management.
+A simple React application to manage and view a list of favourite students. Built using **React (Vite)** with **Context API** for state management.
 
-Browser Link: 
-Git Repo Link:
+---
 
-🚀 Features
-📋 View all students
-⭐ Add/remove favourite students
-👤 Student avatar display
-🔄 Global state using Context API
-⚡ Fast performance with Vite
+## 🚀 Features
 
+- 📋 View all students  
+- ⭐ Add/remove favourite students  
+- 👤 Student avatar display  
+- 🔄 Global state using Context API  
+- ⚡ Fast performance with Vite  
 
+---
 
+## 📁 Project Structure
+
+```
 FAVOURITE STUDENT LIST
 │── dist/
 │── node_modules/
@@ -40,26 +43,58 @@ FAVOURITE STUDENT LIST
 │── index.html
 │── package.json
 │── vite.config.js
+```
 
-🛠️ Tech Stack
-React (with Hooks)
-Vite
-JavaScript (ES6+)
-Context API
-Tailwind CSS
+---
 
-📌 Usage
-Open the app in browser (http://localhost:5173)
-View student list
-Mark students as favourite
-Navigate between pages
+## 🛠️ Tech Stack
 
-📸 Future Improvements
-🔍 Search & filter students
-💾 Save favourites in localStorage
-🔐 Add authentication
-🌐 Backend integration
+- React (Hooks)
+- Vite
+- JavaScript (ES6+)
+- Context API
+- Tailwind CSS
 
-💡 Author
-Made with Poovarasan E
 
+## 📌 Usage
+
+- Open: http://localhost:5173  
+- View student list  
+- Add/remove favourites  
+- Navigate between pages  
+
+---
+
+## 🧠 How It Works
+
+- **StudentContext.jsx** → Global state management  
+- **students.js** → Static data  
+- **pages/** → App screens  
+- **components/** → Reusable UI  
+
+---
+
+## 📸 Future Improvements
+
+- 🔍 Search & filter  
+- 💾 localStorage support  
+- 🔐 Authentication  
+- 🌐 Backend integration  
+
+---
+
+## 🤝 Contributing
+
+Fork this repo and improve it 🚀
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 💡 Author
+
+Made with ❤️ by YOUR NAME
